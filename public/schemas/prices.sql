@@ -1,0 +1,3 @@
+CREATE TABLE "prices" (
+	 "customers" DECIMAL NOT NULL PRIMARY KEY
+);
